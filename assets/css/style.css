@@ -815,6 +815,17 @@
     margin-bottom: 10px;
     text-transform: capitalize;
 }
+.link a{
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+    outline: unset;
+    text-decoration: underline purple;
+}
+.link a:hover{
+    text-decoration: underline black;
+    color: #820cd7;
+}
 .home_five .funfact-block-one .count-box{
     color: #0D0D0D;
 }
