@@ -11,8 +11,8 @@
 .about_widget{
     max-width: 310px;
 }
-.footer_widget .footer_logo{
-    margin-bottom: 30px;
+.footer_widget .footer_logos{
+    margin-bottom: 20px;
 }
 .footer_widget p{
     line-height: 26px;
@@ -36,6 +36,11 @@ h4.footer_widget_title{
     -webkit-transition: all 900ms ease;
     -ms-transition: all 900ms ease;
     -o-transition: all 900ms ease;
+}
+.footer_logos img {
+    height: 60px;
+    width: 170px;
+    margin-bottom: 20px;
 }
 .footer_widget ul li a:hover{
     color: #820CD7;
